@@ -30,7 +30,7 @@ npm i react-copy-to-clipboard
 
 ## PWA - Progressive Web App
 <a href="https://textonus.netlify.app/" target="_blank">
-  <img src="https://github.com/TheNewC0der-24/Textonus/blob/master/Lighthouse%20Report.png" />
+  <img src="https://github.com/ankit24rawat/Textonus/blob/master/Lighthouse%20Report.png" />
 </a>
 
 ## Hosted On
@@ -41,7 +41,7 @@ npm i react-copy-to-clipboard
 Hence, accessible to everyone & accessible anywhere.
 
 ## Preview
-![image](https://github.com/TheNewC0der-24/Textonus/blob/master/Preview.png)
+![image](https://github.com/ankit24rawat/Textonus/blob/master/Preview.png)
 
 ## Link
 ```
