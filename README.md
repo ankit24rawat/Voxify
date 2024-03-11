@@ -45,7 +45,7 @@ Hence, accessible to everyone & accessible anywhere.
 
 ## Link
 ```
-https://textonus.netlify.app/
+https://voxifyankit.vercel.app/
 ```
 
 --- 
